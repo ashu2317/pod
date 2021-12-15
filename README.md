@@ -28,11 +28,11 @@ Test cases are available at
  - find_the_output_list
 ```
 ## API
-- GET: http://localhost:8080/api/route/sort
+- POST: http://localhost:8080/api/route/sort
 
 
-- POST: http://localhost:8080/api/route
-    - Request Sample (JSON)
+- GET: http://localhost:8080/api/route
+    - POST Request Sample (JSON)
    ```sh
     [
         { 
